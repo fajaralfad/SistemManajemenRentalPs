@@ -44,7 +44,7 @@ Sistem Manajemen Rental PS adalah sebuah aplikasi web yang memungkinkan pengguna
     $servername = "localhost";
     $username = "root";
     $password = "";
-    $dbname = "rental_ps";
+    $dbname = "psphere";
     ?>
     ```
 ## Kontak
