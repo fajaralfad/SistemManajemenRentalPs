@@ -1,0 +1,80 @@
+/* style.css */
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: white;
+    padding: 20px 0;
+}
+
+.header h1 a {
+    color: white;
+    text-decoration: none;
+}
+
+.header ul {
+    list-style: none;
+    padding: 0;
+}
+
+.header ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+.header ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.header ul li a:hover {
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    text-decoration: none;
+}
+
+.section {
+    flex: 1;
+}
+
+.box {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h3.mt-5 {
+    margin-top: 5rem;
+}
+
+.footer {
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.dashboard-card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.dashboard-card h4 {
+    margin-top: 10px;
+}
+
+.product-image {
+    max-width: 100%;
+}
