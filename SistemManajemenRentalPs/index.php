@@ -17,7 +17,12 @@ include 'db.php';
 	<!-- header -->
 	<header class="header">
 		<div class="container d-flex justify-content-between align-items-center">
-			<h1><a href="index.php">PSphere</a></h1>
+			<h1><a href="dashboard.php">PSphere</a></h1>
+			<ul class="nav">
+				<li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
+				<li class="nav-item"><a href="modul.php" class="nav-link">Modul</a></li>
+				<li class="nav-item"><a href="chat.php" class="nav-link">Chat</a></li>
+			</ul>
 		</div>
 	</header>
 

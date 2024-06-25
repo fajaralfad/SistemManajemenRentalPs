@@ -12,7 +12,7 @@
 
     <style>
         .bg {
-            background-image: url(../UAP-WEB/img/bgpls1.jpg);
+            background-image: url(img/bgpls1.jpg);
             background-size: cover;
         }
     </style>
