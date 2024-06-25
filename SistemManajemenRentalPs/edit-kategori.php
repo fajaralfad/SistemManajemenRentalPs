@@ -31,6 +31,7 @@
 				<li class="nav-item"><a href="data-kategori.php" class="nav-link">Data Kategori</a></li>
 				<li class="nav-item"><a href="data-produk.php" class="nav-link">Data Produk</a></li>
 				<li class="nav-item"><a href="data-sewa.php" class="nav-link">Data Sewa</a></li>
+				<li class="nav-item"><a href="chat-admin.php" class="nav-link">Chat</a></li>
 				<li class="nav-item"><a href="keluar.php" class="nav-link">Keluar</a></li>
 			</ul>
 		</div>
